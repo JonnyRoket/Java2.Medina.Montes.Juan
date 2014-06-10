@@ -17,5 +17,13 @@ public class ArregloString {
             System.out.println(i);
         }
     }
+    /*Modificador Static
+    Palabra reservada en Java y es un modificador.
+        Nota: a variables locales NO TIENE SENTIDO ASIGNAR ESTE MODIFICADOR
+    Solamente se asigna a:
+        1. atributos
+        2. metodos
+        3. bloques
+    */
     
 }
