@@ -1,0 +1,17 @@
+unchecked
+te olvidas de ellas, ya las comne el compilador y el se hace cargo de ella
+
+checked
+tu tienes que hacerte cargo de ellas
+
+Leer el kendal y y el que da el que pasa natisma
+ 
+Examen proximo jueves
+
+- Excepciones van de la mano con las estructuras de control (if, switch/case, For, etc)
+- Tienen que ver mucho con la ultima etapa del ciclo de vida del software que son:
+    1.- Requerimientos 
+    2.- Analisis
+    3.- Diseño
+    4.- Implementacion
+    5.- test
