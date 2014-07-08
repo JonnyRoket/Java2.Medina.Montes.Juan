@@ -21,7 +21,7 @@ public class Cuenta {
         poner varias Excepciones separadas por "," throws Exception1,Exeption2 {
         throws puede lanzarce una es como un aviso de que se pueden usar exceptions
         y trow es lanzar la exception*/
-        if(saldo<0) throw new SaldoNegativoException();
+       if(saldo<0) throw new SaldoNegativoException();
 //this.saldo = 0;// aqui debe de cumplir la ejecucion si se cumple la condicion
         else this.saldo = saldo;
     }

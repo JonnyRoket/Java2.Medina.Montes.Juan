@@ -1,0 +1,19 @@
+Unidad Collections y Generics
+Unidad Imput/Output - Serialización
+
+
+Collections 
+¿Que Es?:  son clases que permiten crear arreglos mutables, es decir, en cual-
+quier momento se pueden hacer mas pequeñas o mas grande y no requiere espesifi-
+car su tamaño
+
+Conosemos 
+    -List
+    -ArrayList
+
+La clase objets es la mama de todas las clases implicitamente esta un extends en
+cada clase
+
+
+toString(): nos permite mostrar la información completa de un objeto, es decir, 
+el valor de sus atributos.
