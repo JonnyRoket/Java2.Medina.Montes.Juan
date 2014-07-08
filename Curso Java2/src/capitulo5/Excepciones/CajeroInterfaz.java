@@ -162,6 +162,7 @@ public class CajeroInterfaz extends javax.swing.JFrame {
                 new CajeroInterfaz().setVisible(true);
             }
         });
+        
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
